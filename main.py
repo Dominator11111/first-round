@@ -14,3 +14,7 @@ s=6
 d=2
 j=s*d
 print(j)
+f=9
+v=8
+p=f**v
+print(p)
